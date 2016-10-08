@@ -1,0 +1,32 @@
+{
+  "name": "ionic-plugin-ios-allow-camera-permission",
+  "version": "1.0.0",
+  "author": "Çağdaş KARADEMİR <sudo@cagdaskarademir.com> (http://blog.cagdaskarademir.com/)",
+  "description": "Ionic projelerinde gerekli olan Info.plist dosyasına gereken Kamera yetkisini vermesini sağlar.",
+  "cordova": {
+    "id": "ionic-plugin-ios-allow-camera-permission",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagdaskarademir/ionic-plugin-ios-allow-camera-permission.git"
+  },
+  "keywords": [
+    "ionic",
+    "cordova",
+    "app"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cagdaskarademir/ionic-plugin-ios-allow-camera-permission/issues"
+  },
+  "homepage": "https://github.com/cagdaskarademir/ionic-plugin-ios-allow-camera-permission#readme"
+}
